@@ -38,7 +38,8 @@ As a developer, this portfolio serves as a personal reflection of my growth and 
 3. JavaScript: Adding dynamic features such as form validation, animations, and interactivity to make the portfolio more engaging and functional.
 
 ## View the Live Portfolio
-I’ve deployed this portfolio on GitHub Pages for easy access and demonstration. You can explore the live version here:
+I’ve deployed this portfolio on GitHub Pages for easy access and demonstration. 
+You can explore the live version here: https://mwandikiantony.github.io/My-Portfolio-Peer-to-Peer-Group-12/
 
 ## How to Use This Repository
 
