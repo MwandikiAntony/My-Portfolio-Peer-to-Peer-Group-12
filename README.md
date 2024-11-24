@@ -48,11 +48,11 @@ I’ve deployed this portfolio on GitHub Pages for easy access and demonstration
 
 
 ## Contact Information
-### Feel free to reach out if you have any questions, feedback, or opportunities for collaboration!
+### Feel free to reach out if you have any questions, feedback, or opportunities for collaboration.
 
-Email: antonymwandiki26@gmail.com
-GitHub: https://github.com/MwandikiAntony
-LinkedIn: https://www.linkedin.com/in/antony-mwandiki-36a788255
+- Email: antonymwandiki26@gmail.com
+- GitHub: https://github.com/MwandikiAntony
+- LinkedIn: https://www.linkedin.com/in/antony-mwandiki-36a788255
 
 ## Future Enhancements
 1. Add JavaScript Frameworks: I plan to integrate React for more dynamic interactivity and efficiency in managing components.
